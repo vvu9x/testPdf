@@ -1,0 +1,32 @@
+{
+    "family_name": [
+        {
+            "page": 2,
+            "type": "text",
+            "positions": [
+                {"x": 57.05, "y": 218.04, "width": 92.81, "height": 5.91}
+            ]
+        }
+    ],
+    "date_of_birth": [
+        {
+            "page": 2,
+            "type": "multi_text",
+            "positions": {
+                "dd": {"x": 17.13, "y": 195.37, "width": 13.73, "height": 4.82},
+                "mm": {"x": 30.18, "y": 195.58, "width": 13.73, "height": 4.82},
+                "yyyy": {"x": 43.34, "y": 194.84, "width": 13.73, "height": 4.82}
+            }
+        }
+    ],
+    "do_you_need_driving": [
+        {
+            "page": 2,
+            "type": "choice",
+            "positions": {
+                "no": {"x": 118.11, "y": 192.26, "width": 4, "height": 4},
+                "yes": {"x": 133.86, "y": 192.26, "width": 3.91, "height": 3.91}
+            }
+        }
+    ]
+}
