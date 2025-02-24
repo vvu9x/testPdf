@@ -16,7 +16,7 @@ This API allows users to upload a PDF file and provide structured data to automa
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/pdf-fill-api.git
+   git clone https://github.com/vvu9x/PdfApi.git
    cd PdfApi
    ```
 2. Install dependencies:
