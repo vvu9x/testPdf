@@ -16,8 +16,8 @@ This API allows users to upload a PDF file and provide structured data to automa
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/vvu9x/PdfApi.git
-   cd PdfApi
+   git clone https://github.com/vvu9x/testPdf.git
+   cd testPdf
    ```
 2. Install dependencies:
    ```sh
